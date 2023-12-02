@@ -1,0 +1,8 @@
+../bsp/src/bsp.c:11:6:BSP_LED_Init	1
+../bsp/src/bsp.c:39:6:BSP_LED_On	1
+../bsp/src/bsp.c:49:6:BSP_LED_Off	1
+../bsp/src/bsp.c:59:6:BSP_LED_Toggle	1
+../bsp/src/bsp.c:69:6:BSP_PB_Init	1
+../bsp/src/bsp.c:87:9:BSP_PB_GetState	2
+../bsp/src/bsp.c:120:6:BSP_Console_Init	1
+../bsp/src/bsp.c:254:6:BSP_NVIC_Init	1

@@ -1,0 +1,6 @@
+../app/src/printf-stdarg.c:49:13:printchar	4
+../app/src/printf-stdarg.c:76:12:prints	9
+../app/src/printf-stdarg.c:109:12:printi	10
+../app/src/printf-stdarg.c:152:12:print	17
+../app/src/printf-stdarg.c:216:5:my_printf	1
+../app/src/printf-stdarg.c:224:5:my_sprintf	1
