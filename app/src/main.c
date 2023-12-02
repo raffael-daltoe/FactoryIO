@@ -11,7 +11,8 @@ static void SystemClock_Config(void);
 void subscribe(char *p);
 // void init_vet();
 // void print_queue();
-// void att_update_vet(command_message_t *message);
+// void att_update_vet(command_message_t *message);// troca
+
 void actualize_sensors(char c);
 void print_sensor();
 
